@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Dropbox/docs/code/android-sesame/android-sesame.iml" filepath="$USER_HOME$/Dropbox/docs/code/android-sesame/android-sesame.iml" />
+      <module fileurl="file://$USER_HOME$/Dropbox/docs/code/android-sesame/mobile/mobile.iml" filepath="$USER_HOME$/Dropbox/docs/code/android-sesame/mobile/mobile.iml" />
+      <module fileurl="file://$USER_HOME$/Dropbox/docs/code/android-sesame/wear/wear.iml" filepath="$USER_HOME$/Dropbox/docs/code/android-sesame/wear/wear.iml" />
+    </modules>
+  </component>
+</project>
+
